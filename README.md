@@ -6,3 +6,5 @@ This repository contains my beginner projects in C language.   It includes simpl
 - BMI Calculator
 - Rainfall comparison program
 - Other beginner-level C programs
+<br>
+Author = Yashfeen Raza
